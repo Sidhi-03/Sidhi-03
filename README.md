@@ -21,8 +21,15 @@
 
 
 
+
+
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhi-03&theme=dark&hide_border=true" />
+</p>
+
+---
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -32,6 +39,5 @@
 </p>
 
 ---
-
 🔗 Connect with Me
 <p align="center"> <a href="https://www.linkedin.com/in/sidhi-vyas/" target="_blank">LinkedIn</a>  • <a href="https://github.com/Sidhi-03" target="_blank">GitHub</a> </p>
