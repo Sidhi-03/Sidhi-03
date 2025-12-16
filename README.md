@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhi-03&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhi-03&theme=light&hide_border=true" />
 </p>
 
 ---
